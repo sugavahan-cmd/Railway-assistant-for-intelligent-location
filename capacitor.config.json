@@ -1,0 +1,5 @@
+{
+  "appId": "project.json",
+  "appName": "RAIL",
+  "webDir": "frontend/build"
+}

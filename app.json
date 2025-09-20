@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "RailNav",
+    "slug": "railnav",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "ios": {
+      "config": {
+        "googleMapsApiKey": "AIzaSyCDOHngVHyzqEEFyDm1oISnzlKlzLBAUhg"
+      }
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCDOHngVHyzqEEFyDm1oISnzlKlzLBAUhg"
+        }
+      },
+      "package": "com.tharun1402.railnav"
+    }
+  }
+}
